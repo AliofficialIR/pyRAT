@@ -34,5 +34,6 @@ A Python program that is controlled through the Telegram bot, through which you 
 <p><h4>step 2</h4>In the next step, so that there is no need to manually install the libraries in the target system, you must convert the program into an executable file by using <b>pyinstaller</b> .exe for this you can use artificial intelligence or Google after creating the file The executable just gives the file to the target and executes it</p>
 
 <h1>US</h1>
-<a href="https://t.me/H_SarrAllah">Telegram</a>
-<a href="https://github.com/AliofficialIR">GitHub</a>
+<a href="https://t.me/H_SarrAllah">Telegram🤖</a>
+<br>
+<a href="https://github.com/AliofficialIR">GitHub🐱‍💻</a>
