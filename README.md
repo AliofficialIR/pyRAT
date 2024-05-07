@@ -30,10 +30,11 @@ A Python program that is controlled through the Telegram bot, through which you 
 <p>This program is built using the <pre>python-telegram-bot / requests / os / time / platform / pyttsx3 / subprocess / getpass</pre> libraries</p>
 <h1>Usage</h1>
 <p><h4>step 1</h4>To use this program, you just need to create a Telegram bot using robot <a href="https://t.me/BotFather">bot father</a> and place your robot token in the file <b>main.py</b> on line 116 instead of TOKEN and this way your robot will connect to the program!</p>
-<br>
 <p><h4>step 2</h4>In the next step, so that there is no need to manually install the libraries in the target system, you must convert the program into an executable file by using <b>pyinstaller</b> .exe for this you can use artificial intelligence or Google after creating the file The executable just gives the file to the target and executes it</p>
+<p><h4>step 3</h4> To play the voice, you should replace our text in line 46 of the file main.py</p>
+<p><h4>step 4</h4> To change the display text in the target system, you need to replace the <b>'hacked by team SarrAllaH'</b> text in the file main.py in lines 51 and 53.</p>
 
 <h1>US</h1>
 <a href="https://t.me/H_SarrAllah">Telegram🤖</a>
 <br>
-<a href="https://github.com/AliofficialIR">GitHub🐱‍💻</a>
+<a href="https://github.com/AliofficialIR" style="text_decoration=no">GitHub🐱‍💻</a>
